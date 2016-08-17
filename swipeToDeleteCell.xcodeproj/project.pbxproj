@@ -14,6 +14,7 @@
 		B76226731D6203440098E90B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B76226711D6203440098E90B /* LaunchScreen.storyboard */; };
 		B762267E1D6203440098E90B /* swipeToDeleteCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B762267D1D6203440098E90B /* swipeToDeleteCellTests.swift */; };
 		B76226891D6203440098E90B /* swipeToDeleteCellUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76226881D6203440098E90B /* swipeToDeleteCellUITests.swift */; };
+		B76226971D6204820098E90B /* VideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B76226961D6204820098E90B /* VideoCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B76226841D6203440098E90B /* swipeToDeleteCellUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swipeToDeleteCellUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B76226881D6203440098E90B /* swipeToDeleteCellUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swipeToDeleteCellUITests.swift; sourceTree = "<group>"; };
 		B762268A1D6203440098E90B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B76226961D6204820098E90B /* VideoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				B76226681D6203440098E90B /* AppDelegate.swift */,
 				B762266A1D6203440098E90B /* ViewController.swift */,
+				B76226961D6204820098E90B /* VideoCell.swift */,
 				B762266C1D6203440098E90B /* Main.storyboard */,
 				B762266F1D6203440098E90B /* Assets.xcassets */,
 				B76226711D6203440098E90B /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				B762266B1D6203440098E90B /* ViewController.swift in Sources */,
 				B76226691D6203440098E90B /* AppDelegate.swift in Sources */,
+				B76226971D6204820098E90B /* VideoCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  swipeToDeleteCell
 //
-//  Created by Kaspar Birk on 15/08/2016.
+//  Created by Imbue on 15/08/2016.
 //  Copyright © 2016 Imbue. All rights reserved.
 //
 
